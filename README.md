@@ -2,6 +2,8 @@
 
 엑셀 데이터를 읽어서 MySQL 데이터베이스에 저장하는 파이썬 스크립트입니다.
 
+저장소: https://github.com/jisoochoi2/untitled
+
 ## 구성
 
 - `excel_to_db.py` — `sample.xlsx`를 읽어 `employees` 테이블(이름, 부서, 연봉, 입사년도, 성과등급)에 insert
